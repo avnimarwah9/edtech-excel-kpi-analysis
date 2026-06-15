@@ -6,7 +6,7 @@ A formula-based Excel analytics project using a synthetic dataset of 2,500+ stud
 
 This is a **learning/practice project**. The dataset is synthetically generated to reflect realistic patterns in the Indian EdTech market (pricing in INR, GST slabs, city-tier distribution, course categories, completion and refund rates). It is not sourced from Kaggle or any external dataset provider.
 
-I built and worked through this project to practice formula-based analysis end-to-end — from raw, messy data to a clean KPI dashboard, and to understand exactly how each formula works so I can apply the same logic to real datasets.
+I built and worked through this project to practice formula-based analysis end-to-end, from raw, messy data to a clean KPI dashboard, and to understand exactly how each formula works so I can apply the same logic to real datasets.
 
 ## What’s in the workbook
 
