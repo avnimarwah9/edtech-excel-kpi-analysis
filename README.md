@@ -6,7 +6,7 @@ A formula-based Excel analytics project using a synthetic dataset of 2,500+ stud
 
 This is a **learning/practice project**. The dataset is synthetically generated to reflect realistic patterns in the Indian EdTech market (pricing in INR, GST slabs, city-tier distribution, course categories, completion and refund rates). It is not sourced from Kaggle or any external dataset provider.
 
-I built and worked through this project to practice formula-based analysis end-to-end — from raw, messy data to a clean KPI dashboard — and to understand exactly how each formula works so I can apply the same logic to real datasets.
+I built and worked through this project to practice formula-based analysis end-to-end — from raw, messy data to a clean KPI dashboard, and to understand exactly how each formula works so I can apply the same logic to real datasets.
 
 ## What’s in the workbook
 
@@ -42,7 +42,7 @@ Built using `COUNTIFS`, `SUMIFS`, `AVERAGEIFS`, and `IFERROR` (to handle divide-
 
 - Coding & Tech has the highest gross margin (~58.9%) and completion rate (~66.3%) among all course categories
 - K-12 Academics has the lowest completion rate (~60.1%), though margins are broadly similar (54–59%) across categories
-- Tier 2 and Tier 3 cities show 6–8% lower completion rates than Tier 1, despite comparable refund rates — suggesting access/infrastructure factors rather than dissatisfaction
+- Tier 2 and Tier 3 cities show 6–8% lower completion rates than Tier 1, despite comparable refund rates, suggesting access/infrastructure factors rather than dissatisfaction
 
 ## Tools used
 
@@ -50,4 +50,4 @@ Microsoft Excel (formulas: `COUNTIFS`, `SUMIFS`, `AVERAGEIFS`, `IFERROR`, `IF`, 
 
 ## Files
 
-- `EdTech_India_Portfolio_Dataset.xlsx` — full workbook with raw data, cleaned data, lookup tables, and KPI summary
+- `EdTech_India_Portfolio_Dataset.xlsx` : full workbook with raw data, cleaned data, lookup tables, and KPI summary
